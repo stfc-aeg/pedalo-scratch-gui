@@ -317,5 +317,10 @@ export default [
             />
         ),
         helpLink: 'https://scratch.mit.edu/vernier'
+    },
+    {
+        name: 'Go Direct Force & Acceleration',
+        extensionId: 'pedaloBlocks',
+        featured: true
     }
 ];
