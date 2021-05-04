@@ -317,5 +317,11 @@ export default [
             />
         ),
         helpLink: 'https://scratch.mit.edu/vernier'
+    },
+    {
+        name: 'PEDALO',
+        extensionId: 'pedalo',
+        launchPeripheralConnectionFlow: true,
+        featured: true
     }
 ];

@@ -60,6 +60,26 @@
         "blocks": {}
     },
     {
+        "name": "Test",
+        "tags": [
+            "people"
+        ],
+        "isStage": false,
+        "variables": {},
+        "costumes": [
+            {
+                "assetId": "60f720956ab1840431dcf0616ce98f14",
+                "name": "amon",
+                "bitmapResolution": 2,
+                "md5ext": "60f720956ab1840431dcf0616ce98f14.png",
+                "dataFormat": "png",
+                "rotationCenterX": 174,
+                "rotationCenterY": 162
+            }
+        ],"sounds": [],
+        "blocks": {}
+    },
+    {
         "name": "Amon",
         "tags": [
             "people",

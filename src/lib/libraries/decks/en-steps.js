@@ -3,6 +3,9 @@ import introMove from './steps/intro-1-move.en.gif';
 import introSay from './steps/intro-2-say.en.gif';
 import introGreenFlag from './steps/intro-3-green-flag.en.gif';
 
+import test from './steps/test.png';
+import test2 from './steps/test2.png';
+
 // Text to Speech
 import speechAddExtension from './steps/speech-add-extension.en.gif';
 import speechSaySomething from './steps/speech-say-something.en.png';
@@ -204,6 +207,9 @@ const enImages = {
     introMove: introMove,
     introSay: introSay,
     introGreenFlag: introGreenFlag,
+
+    test: test,
+    test2: test2,
 
     // Text to Speech
     speechAddExtension: speechAddExtension,

@@ -64,6 +64,39 @@ import spinThumb from './thumbnails/spin.jpg';
 
 export default {
 
+    'pedalo-test': {
+        name: (
+            <FormattedMessage
+                defaultMessage="Getting Started with pedalo"
+                description="Test"
+                id="pedalo.tutor"
+            />
+        ),
+        tags: ['help', 'stuck', 'how', 'can', 'say'],
+        img: libraryIntro,
+        steps: [{
+            title: (
+                <FormattedMessage
+                    defaultMessage="Add a move block"
+                    description="Step name for 'Add a move block' step"
+                    id="gui.howtos.intro-move.step_stepMove"
+                />
+            ),
+            image: 'test'
+        }, {
+            title: (
+                <FormattedMessage
+                    defaultMessage="Add a say block"
+                    description="Step name for 'Add A Say Block' step"
+                    id="gui.howtos.add-a-move-block.step_stepSay"
+                />
+            ),
+            image: 'test2'
+        }
+        ],
+        urlId: 'getStarted'
+    },
+
     'intro-move-sayhello': {
         name: (
             <FormattedMessage
