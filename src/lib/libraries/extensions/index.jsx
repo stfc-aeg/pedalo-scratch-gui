@@ -321,7 +321,6 @@ export default [
     {
         name: 'PEDALO',
         extensionId: 'pedalo',
-        launchPeripheralConnectionFlow: true,
         featured: true
     }
 ];
